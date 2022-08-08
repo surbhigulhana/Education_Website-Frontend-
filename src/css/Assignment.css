@@ -1,0 +1,33 @@
+
+
+
+#one{
+  /* background-color: #013A6B; */
+  background-image: -webkit-linear-gradient(30deg, #e6dadaaf 50%, #b9f5d9b6 50%);
+  min-height: 300px;
+  width: 100%;
+}
+/* three card */
+#shadow11 {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#shadow12 {
+  margin-top: 130px;
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+

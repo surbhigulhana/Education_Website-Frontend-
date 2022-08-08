@@ -1,0 +1,11 @@
+.card1{
+
+    /* margin: 40px; */
+    text-align: center;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     margin-left: 100px;
+}
+.card1:hover{
+    transition: .2s;
+    transform: scale(1.06);
+}
