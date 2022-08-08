@@ -1,0 +1,36 @@
+/*DEMO ONLY*/
+
+.service-categories {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    background-size: cover;
+  }
+  
+  
+  /*DEMO ONLY*/
+  
+  .service-categories .card {
+    transition: all 0.3s;
+  }
+  
+  .service-categories .card-title {
+    padding-top: 0.5em;
+  }
+  
+  .service-categories a:hover {
+    text-decoration: none;
+  }
+  
+  .service-card {
+    /* background: #5d727c; */
+    border: 0;
+  }
+  
+  .service-card:hover {
+transform: scale(1.1);
+transition: 2s;
+  }
+  
+  .fa {
+    color: rgb(43, 42, 42);
+  }
